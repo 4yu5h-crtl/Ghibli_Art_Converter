@@ -2,7 +2,7 @@
 
 Transform your photos into magical Ghibli-style artwork using the power of AI! This app provides a beautiful, user-friendly interface built with Streamlit.
 
-![Ghibli Style Converter](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjN5ZnB3NWViaTlpNHV0enFxdzZ3aGRxY2lhb3pxbzVvbWRvcGtzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ylpMP58IO1arS/giphy.gif)
+![Ghibli Style Converter](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxeng0NnM5MDJobTVsb2dnajZ3cng5dmdyZnR5cHY3NnVzZDd6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F99PZtJC8Hxm0/giphy.gif)
 
 ---
 
